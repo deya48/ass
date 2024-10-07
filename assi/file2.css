@@ -1,0 +1,124 @@
+body {
+
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    font-family: Arial, sans-serif;
+    
+    line-height: 1.6;
+    
+    margin: 0;
+    
+    padding: 0;
+    
+    background-color: #535353;
+    }
+    
+    header {
+    
+    background: #35424a;
+    
+    color: #ffffff;
+    
+    padding: 10px 0;
+    
+    text-align: center;
+    }
+    
+    h1, h2 {
+    
+    margin: 0;
+    }
+    
+    .div1{
+        justify-content: center;
+  
+  margin: auto;
+  align-items:center ;
+  width: 600px;
+       height: auto;
+       
+       background-color: rgb(131, 130, 130);
+       display: flex;
+       padding: 20px;
+       border-radius: 10px;
+       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    .div2{
+        justify-content: center;
+        width:100;
+        margin:auto ;
+        color: rgb(0, 0, 0);
+    }
+    .about_me{
+        justify-content: center;
+        width:100;
+        margin:auto ;
+        color: rgb(0, 0, 0);
+        background-color:rgb(131, 130, 130);
+        padding: 20px;
+       border-radius: 10px;
+       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    
+    }
+    .Guess{
+        display: flex;
+        justify-content: flex-start;
+    }
+    .gues{
+        float: left;
+        width:100;
+        margin:10px ;
+        color: yellow;
+        background-color:rgb(131, 130, 130);
+        padding: 20px;
+       border-radius: 10px;
+       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    
+    }
+    .guse1{
+        color: black;
+
+    }
+
+    .grow{
+       
+       
+        justify-content: center;
+        color: rgba(255, 132, 0, 0.932);
+        background-color:rgb(68, 68, 68);
+        width: 400px;
+       height: auto;
+       margin: 20px;
+       padding: 20px;
+       border-radius: 10px;
+       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+    }
+    .growp{
+        color: rgb(255, 0, 0);
+    }
+    .PR{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .PP{
+        margin: 10px;
+        text-align: right;
+        color: rgb(126, 0, 0);
+        background-color:rgb(50,50, 50);
+        width: 200px;
+       height: auto;
+       padding: 20px;
+       border-radius: 10px;
+       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+       float: right;
+       
+    }
+    
+    
+    
+    
+    
